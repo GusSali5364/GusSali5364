@@ -1,5 +1,5 @@
 
-String sPinias = txtPinias.getText();
+        String sPinias = txtPinias.getText();
         int iPinias = Integer.parseInt(sPinias);
         String sMangos = txtMangos.getText();
         int iMangos = Integer.parseInt(sMangos);
